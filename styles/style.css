@@ -175,12 +175,32 @@ display: none;
   background-image:linear-gradient(purple, #BA55D3);
 }
 
-.question{
+.question1{
   font-weight: bold;
   font-size: 25px;
 }
 
-.answer{
+.answer1{
+  font-size: 20px;
+  display: none;
+}
+
+.question2{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.answer2{
+  font-size: 20px;
+  display: none;
+  }
+
+.question3{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.answer3{
   font-size: 20px;
   display: none;
 }
